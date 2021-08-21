@@ -1,0 +1,11 @@
+
+.img-fluid{
+    width: 80%;
+}
+.m-titile{
+    font-size: 50px;
+}
+/*------------- table-------- */
+td{
+    font-weight: bold;
+}
